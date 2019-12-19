@@ -51407,6 +51407,7 @@ L1: R
             L4: Cs-CClHH
             L4: Cs-CIHH
             L4: Cs-CClClH
+            L4: Cs-CIIH
             L4: Cs-CClClCl
             L4: Cs-CCClH
             L4: Cs-CCIH
